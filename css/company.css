@@ -135,9 +135,6 @@ h1 {
 #contents #main h2.company_title {
   margin-bottom: 0px; }
 
-#contents #main th {
-  padding-right: 20px; }
-
 #contents #main th, #contents #main td {
   padding: 20px 0;
   color: #626262;
@@ -253,5 +250,10 @@ footer .copy {
 
   footer .copy {
     margin-top: 30px; } }
+#contents #main th {
+  padding-right: 20px; }
+
+#contents #sidebar .pc_sidemenu li a {
+  text-decoration: none; }
 
 /*# sourceMappingURL=company.css.map */

@@ -240,9 +240,10 @@ header{
 }
 #contents #main .news_li li span {
     color: #42b9d0;
-    display: block;
+    display: inline-block;
     font-weight: bold;
     margin-bottom: 3px;
+    padding-right: 10px;
 }
 #contents #main .news_li li {
     list-style: none;
